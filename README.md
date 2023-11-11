@@ -30,8 +30,7 @@ The Now Playing Command plugin for Stream Deck fetches and shares the title of t
 
 ## Support
 
-For support, please open an issue in the [GitHub issue tracker](https://github.com/Arkkis/StreamDeckNowPlayingPlugin/issues).
-Or join [Discord](https://discord.gg/E3HBaq5DKe) to chat with me.
+For support, please open an issue in the [GitHub issue tracker](https://github.com/Arkkis/StreamDeckNowPlayingPlugin/issues) or join [Discord](https://discord.gg/E3HBaq5DKe) to chat with me.
 
 ## Acknowledgments
 

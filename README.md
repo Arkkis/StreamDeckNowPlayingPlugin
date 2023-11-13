@@ -1,5 +1,9 @@
 # Now Playing Command Plugin for Stream Deck
 
+https://github.com/Arkkis/StreamDeckNowPlayingPlugin/assets/1597688/2716c8a9-f455-437a-83f5-c65d17e923bf
+
+
+
 ## Description
 
 The Now Playing Command plugin for Stream Deck fetches and shares the title of the currently playing song or video from Spotify or your browser to any text input area. Ideal for live streamers, content creators, and anyone who wants to share what they're playing without interrupting their workflow.
